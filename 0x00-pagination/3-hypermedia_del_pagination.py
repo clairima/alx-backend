@@ -67,3 +67,4 @@ class Server:
         else:
             response['next_index'] = None
         return response
+        
